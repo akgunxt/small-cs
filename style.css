@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@400;500;700&display=swap');
+
+body {
+  background-color: #DDF7E3;
+}
+
+.main {
+  text-align: center;
+  background-color: #1A5F7A;
+  width: 400px;
+  padding: 50px 30px;
+  position: absolute;
+  transform: translate(-50% -50%);
+  top: 30%;
+  left: 30%;
+  border-radius: 10px;
+  box-shadow: 0 20px 25px rgba(0, 0, 0, 0.25);
+}
+#link-icons a{
+  text-decoration: none;
+  font-size: 20px;
+  word-spacing: 25px;
+}
+#job, #about, #title{
+  font-family: monospace;
+  color: #fff;
+}
